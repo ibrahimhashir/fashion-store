@@ -1,0 +1,48 @@
+#nav{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+li {
+    float: left;
+}
+
+#nav-bar{
+    position: absolute;
+    top: 99px;
+    width: 1248px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 21px 26px;
+    text-decoration: none;
+    background-color: red;
+    
+}
+
+li >a:link{
+    background-color: blue;
+
+}
+
+ li > a:hover{
+    color: red;
+    background-color: blueviolet;
+}
+
+li > a:active{
+    color: black;
+}
+
+#float{
+    float:right;
+}

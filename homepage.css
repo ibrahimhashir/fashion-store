@@ -1,0 +1,248 @@
+#cats{
+    color:red;
+    width: 0px;
+    padding: 20px;
+    font-size: 45px;
+}
+
+#ptag{
+    color: re;
+    font-family: 'Lucida Sans',  sans-serif;
+    /* font-size: 20px; */
+    
+}
+
+#day{
+    color: black;
+}
+
+#float{
+     border: 2px solid black;
+    padding: 9px;
+    position: absolute;
+    top: 40px;
+    left: 500px;
+    width: 270px;
+
+  }
+
+  #flojat{
+    border-radius: 1px;
+    padding: 20px;
+  }
+
+  #light{
+    font-size: 47px;
+    position: absolute;
+    right: 75px;
+    top: 20px;
+    color: red;
+  }
+
+  #bob{
+    font-size: 15px;
+    position: absolute;
+    right:29px;
+    top: 70px;
+  }
+/* BACKGROUND */
+
+#background{
+    background-image: url(images/photo.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#background_content{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: blueviolet;
+    width: 400px;
+    position: absolute;
+    top:250px;
+    left: 440px;
+}
+
+  #photo img{
+    width: 1253px;
+    height: 300px;
+    position: relative;
+    top: 1px;
+  }
+
+
+  #line1{
+    display: flex;
+  }
+
+  #fanta{
+    display: flex;
+  }
+
+  .cloth p {
+    text-align: center;
+  }
+
+  #com{
+    position: absolute;
+    top: 880px;
+  }
+
+#step{
+    /* not responding */
+    color: beige;  
+    background-color: red; 
+    /* width: 400px;
+    height: 27px; */
+    /* text-align: center; */
+}
+
+#htag{
+    background-color: red;
+    width: 400px;
+    height: 120px;
+    font-size: larger;
+    text-align: center;
+    align-items: center;
+}
+
+
+.backgroud{
+    background-image: url(images/rectangle.jpg);
+    height: 130px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: red;
+
+}
+
+
+.backgrond_content{
+    color: white;
+    font-size: 90px;
+    text-align: center;
+}
+
+#lastimg{
+    display: flex;
+    
+}
+
+
+#bk{
+    background-color: black;
+    background-size: 0vi;
+    width: 1250px;
+    height: 200px;
+     display: flex;
+    justify-content: flex-start;
+}
+
+#van{
+    position: absolute;
+    top: 1px;
+    left: 310px;
+}
+
+#phone{
+    position: absolute;
+    top: 3px;
+    left: 670px;
+}
+
+
+#bkc{
+    text-align: center;
+    color:white;
+    position: absolute;
+    top: 2080px;
+    left: 150px;
+}
+
+#flex-div{
+    display: flex;
+}
+
+
+#round{
+    background-color: brown;
+    width: 1250px;
+    height: 230px;
+}
+
+
+#round img{
+    border-radius: 100%;
+    width: 90px;
+    height: 80px;
+    position: absolute;
+    top: 2300px;
+    left: 560px;
+}
+
+#round p{
+    color: white;
+    position: absolute;
+    top: 2370px;
+    left: 460px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+  div.man {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  div.man img {
+    width: 100%;
+    height: 125px;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+  div.teacher {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+
+  div.teacher img {
+    width: 100%;
+    height: 125px;
+  }
+
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  #black{
+    background-image: url(images/);
+  }
